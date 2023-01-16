@@ -6,8 +6,8 @@
 
 
 
---> Project: Selenium final project
--> folders: src/main/java contains all java files,readeer file, locators file and data file with data of user and password and path is given for excel file by using                   object of reader file.
+            --> Project: Selenium final project
+         -> folders: src/main/java contains all java files,readeer file, locators file and data file with data of user and password and path is given for excel file by                  using  object of reader file.
             src/test/java file contains one test file with all test cases in that.
             other than that project data folder, pom file, testNg file,maven dependencies are there.
             
