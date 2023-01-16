@@ -21,4 +21,4 @@
             * Test-7 : After login, system will select one mail from list of mails and send to trash and from bin it will send to inbox and print total mail number after                          trash and before trash.
             *Test-8:  System will select one read mail from list and click unread button so, mail will be in bold letter with unread status and again cursor will click                         and select this mail for making read.
             
-  --> In test file, all tests are written and for all files seperate objects has been used for calling methods and priority is given for following test numbers.          
+             --> In test file, all tests are written and for all files seperate objects has been used for calling methods and priority is given for following test                       numbers.          
