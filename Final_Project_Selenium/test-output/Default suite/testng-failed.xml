@@ -6,8 +6,13 @@
       <class name="com.testing.TestFile">
         <methods>
           <include name="afterMethod"/>
+          <include name="noEmailAndPhoneTest"/>
+          <include name="correctEmailInvalidPassTest"/>
           <include name="readToUnreadFileTest"/>
           <include name="selectOneMailTest"/>
+          <include name="correctEmailPasswordTest"/>
+          <include name="invalidEmailTest"/>
+          <include name="countMailFirstPageTest"/>
           <include name="countTotalMailsTest"/>
           <include name="beforeMethod"/>
         </methods>
