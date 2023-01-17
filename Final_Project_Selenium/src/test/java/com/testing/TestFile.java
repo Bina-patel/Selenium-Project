@@ -24,6 +24,9 @@ public class TestFile {
 	@AfterMethod
 	public void afterMethod(ITestResult result) {
 		lpf.closeBrowser();
+	//	ip.closeBrowser();
+	//	smf.closeBrowser();
+	//	rtf.closeBrowser();
 	}
 	
 	
